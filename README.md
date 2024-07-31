@@ -1,2 +1,11 @@
-# 60_projects_HTML_CSS_JS
-HTML CSS JS (JavaScript). Build 60 projects to learn HTML CSS JavaScript. 50+ HTML5, CSS3, vanilla JavaScript projects
+
+# HTML | CSS | JS | Build 60 projects to learn HTML CSS JavaScript | Vanilla JavaScript projects
+
+## Project 1 | Age Calculator
+
+![Screenshoot](./assets/Project_1.jpg)
+
+
+## Project 2 | Tip Calculator
+
+![Screenshoot](./assets/Project_2.jpg)
