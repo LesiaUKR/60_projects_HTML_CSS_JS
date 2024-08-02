@@ -9,3 +9,10 @@
 ## Project 2 | Tip Calculator
 
 ![Screenshoot](./assets/Project_2.jpg)
+
+
+## Project 3 | Recipe Book App
+
+**Food API used** - [spoonacular API](https://spoonacular.com/)
+
+![Screenshoot](./assets/Project_3.jpg)
