@@ -16,3 +16,7 @@
 **Food API used** - [spoonacular API](https://spoonacular.com/)
 
 ![Screenshoot](./assets/Project_3.jpg)
+
+## Project 4 | Dice Roll Simulator
+
+![Screenshoot](./assets/Project_4.gif)
