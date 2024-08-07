@@ -21,6 +21,6 @@
 
 ![Screenshoot](./assets/Project_4.gif)
 
-## Project 5 | Dice Roll Simulator
+## Project 5 | Pomodoro Timer
 
-![Screenshoot](./assets/Project_4.gif)
+![Screenshoot](./assets/Project_5.gif)
